@@ -1,0 +1,6798 @@
+*** Life<Cell> 8x1 ***
+
+Generation = 0, Population = 8.
+0
+0
+0
+0
+0
+0
+0
+0
+
+Generation = 1, Population = 2.
+1
+-
+-
+-
+-
+-
+-
+1
+
+Generation = 2, Population = 2.
+-
+0
+-
+-
+-
+-
+0
+-
+
+Generation = 3, Population = 4.
+1
+-
+0
+-
+-
+0
+-
+1
+
+Generation = 4, Population = 2.
+-
+-
+-
+0
+0
+-
+-
+-
+
+Generation = 5, Population = 4.
+-
+-
+0
+1
+1
+0
+-
+-
+
+Generation = 6, Population = 4.
+-
+0
+1
+-
+-
+1
+0
+-
+
+Generation = 7, Population = 8.
+1
+1
+*
+1
+1
+*
+1
+1
+
+Generation = 8, Population = 4.
+*
+-
+*
+-
+-
+*
+-
+*
+
+Generation = 9, Population = 2.
+.
+-
+.
+1
+1
+.
+-
+.
+
+Generation = 10, Population = 2.
+.
+-
+.
+*
+*
+.
+-
+.
+
+Generation = 11, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 12, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 13, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 14, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 15, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 16, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 17, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 18, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 19, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 20, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 21, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 22, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 23, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 24, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 25, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 26, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 27, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 28, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 29, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 30, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 31, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 32, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 33, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 34, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 35, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 36, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 37, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 38, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 39, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 40, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 41, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 42, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 43, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 44, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 45, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 46, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 47, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 48, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 49, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 50, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 51, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 52, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 53, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 54, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 55, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 56, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 57, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 58, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 59, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 60, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 61, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 62, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 63, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 64, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 65, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 66, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 67, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 68, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 69, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 70, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 71, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 72, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 73, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 74, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 75, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 76, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 77, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 78, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 79, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 80, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 81, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 82, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 83, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 84, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 85, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 86, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 87, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 88, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 89, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 90, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 91, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 92, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 93, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 94, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 95, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 96, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 97, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 98, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 99, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 100, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 101, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 102, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 103, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 104, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 105, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 106, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 107, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 108, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 109, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 110, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 111, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 112, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 113, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 114, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 115, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 116, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 117, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 118, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 119, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 120, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 121, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 122, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 123, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 124, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 125, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 126, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 127, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 128, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 129, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 130, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 131, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 132, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 133, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 134, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 135, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 136, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 137, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 138, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 139, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 140, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 141, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 142, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 143, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 144, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+Generation = 145, Population = 0.
+.
+-
+.
+.
+.
+.
+-
+.
+
+*** Life<Cell> 8x5 ***
+
+Generation = 0, Population = 21.
+0--0-
+-000-
+--0-0
+00-00
+0-0--
+000--
+-00-0
+0-0--
+
+Generation = 17, Population = 8.
+.**..
+-**..
+.-...
+-*...
+-.**.
+-*...
+.....
+.....
+
+Generation = 34, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 51, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 68, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 85, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 102, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 119, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 136, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 153, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 170, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+Generation = 187, Population = 4.
+.....
+-....
+.**..
+.**..
+.....
+.....
+.....
+.....
+
+*** Life<Cell> 1x10 ***
+
+Generation = 0, Population = 10.
+0000000000
+
+Generation = 13, Population = 4.
+-0-0..0-0-
+
+Generation = 26, Population = 2.
+1---..---1
+
+Generation = 39, Population = 2.
+-0--..--0-
+
+Generation = 52, Population = 4.
+1-1-..-1-1
+
+Generation = 65, Population = 2.
+---0..0---
+
+Generation = 78, Population = 2.
+--1-..-1--
+
+Generation = 91, Population = 4.
+-0-0..0-0-
+
+*** Life<Cell> 2x9 ***
+
+Generation = 0, Population = 18.
+000000000
+000000000
+
+Generation = 10, Population = 0.
+.........
+.........
+
+*** Life<Cell> 7x7 ***
+
+Generation = 0, Population = 40.
+0-0000-
+00-0-00
+000-000
+-000-00
+00000-0
+0000000
+0-00000
+
+Generation = 12, Population = 16.
+.1*.-*0
+..*.1.*
+----..*
+...1*-*
+-.---.*
+...-***
+-.0....
+
+*** Life<Cell> 2x4 ***
+
+Generation = 0, Population = 8.
+0000
+0000
+
+Generation = 18, Population = 0.
+-..-
+-..-
+
+Generation = 36, Population = 0.
+-..-
+-..-
+
+Generation = 54, Population = 0.
+-..-
+-..-
+
+Generation = 72, Population = 0.
+-..-
+-..-
+
+Generation = 90, Population = 0.
+-..-
+-..-
+
+Generation = 108, Population = 0.
+-..-
+-..-
+
+Generation = 126, Population = 0.
+-..-
+-..-
+
+Generation = 144, Population = 0.
+-..-
+-..-
+
+Generation = 162, Population = 0.
+-..-
+-..-
+
+Generation = 180, Population = 0.
+-..-
+-..-
+
+*** Life<Cell> 5x10 ***
+
+Generation = 0, Population = 39.
+000000000-
+000000---0
+0000--0000
+00-00-0-00
+0-0000-000
+
+Generation = 9, Population = 18.
+-**1**....
+.1-*.-.---
+*1...*-*..
+*-.*--....
+*-***...*-
+
+Generation = 18, Population = 11.
+**........
+..*....**.
+*-....*..*
+.*..-.*.*.
+.........-
+
+Generation = 27, Population = 0.
+..........
+..........
+.-........
+....-.....
+.........-
+
+Generation = 36, Population = 0.
+..........
+..........
+.-........
+....-.....
+.........-
+
+Generation = 45, Population = 0.
+..........
+..........
+.-........
+....-.....
+.........-
+
+*** Life<Cell> 7x3 ***
+
+Generation = 0, Population = 19.
+-00
+000
+000
+000
+-00
+000
+000
+
+Generation = 16, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 32, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 48, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 64, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 80, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 96, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 112, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 128, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+Generation = 144, Population = 3.
+.-.
+...
+**.
+*-.
+...
+...
+...
+
+*** Life<Cell> 4x5 ***
+
+Generation = 0, Population = 20.
+00000
+00000
+00000
+00000
+
+Generation = 5, Population = 2.
+-...-
+.-1-.
+.-1-.
+-...-
+
+Generation = 10, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 15, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 20, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 25, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 30, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 35, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 40, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 45, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 50, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 55, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 60, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 65, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 70, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 75, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 80, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+Generation = 85, Population = 0.
+-...-
+.-.-.
+.-.-.
+-...-
+
+*** Life<Cell> 9x5 ***
+
+Generation = 0, Population = 18.
+0---0
+--000
+--0-0
+0-0--
+00---
+----0
+00---
+0--0-
+--00-
+
+Generation = 6, Population = 22.
+--*-*
+1.01.
+.**1*
+---1.
+-*1..
+---*-
+-.--1
+.10**
+10.0*
+
+Generation = 12, Population = 18.
+.***.
+*..*.
+*..1.
+*--..
+....*
+*1-.0
+*..*.
+*.-..
+*.*0.
+
+Generation = 18, Population = 16.
+.*...
+*....
+*.**.
+*.*..
+*..*.
+.**..
+...*.
+...**
+...**
+
+Generation = 24, Population = 12.
+.....
+.....
+.....
+.*.*.
+....*
+*...*
+*..*.
+.***.
+.**..
+
+Generation = 30, Population = 9.
+.....
+.....
+.....
+.....
+.....
+..*..
+**.*.
+*..*.
+***..
+
+Generation = 36, Population = 9.
+.....
+.....
+.....
+.....
+.**..
+*.*..
+*..*.
+.**..
+..*..
+
+Generation = 42, Population = 8.
+.....
+.....
+.***.
+*..*.
+**.*.
+.....
+.....
+.....
+.....
+
+Generation = 48, Population = 16.
+.****
+*...*
+*...*
+*..*.
+*.*..
+*.*..
+.**..
+.....
+.....
+
+Generation = 54, Population = 2.
+.....
+..*..
+..*..
+.....
+.....
+.....
+.....
+.....
+.....
+
+*** Life<Cell> 6x6 ***
+
+Generation = 0, Population = 3.
+------
+--0---
+------
+------
+0----0
+------
+
+Generation = 1, Population = 10.
+--0---
+-0-0--
+--0---
+0----0
+-0--0-
+0----0
+
+Generation = 2, Population = 9.
+------
+0---0-
+0----0
+--0---
+0-00-0
+------
+
+Generation = 3, Population = 15.
+0---0-
+10-0--
+100---
+-01---
+---1--
+0-00-0
+
+Generation = 4, Population = 11.
+1----0
+*-0---
+------
+------
+000*00
+--1---
+
+Generation = 5, Population = 22.
+*00-0-
+.--0-0
+1-0---
+001000
+1-1*-1
+0-*-00
+
+Generation = 6, Population = 19.
+.-10--
+*00-0-
+*0100-
+1--1--
+-0*.--
+1-*01-
+
+Generation = 7, Population = 21.
+.--1--
+*11-10
+.1*1-0
+*01*--
+11..0-
+-0*-*0
+
+Generation = 8, Population = 15.
+.0---0
+**--*-
+.*.-01
+.-*.-0
+-*..1-
+--*-*1
+
+Generation = 9, Population = 25.
+*11---
+**10*0
+***1--
+.0**01
+1**.*1
+--.-**
+
+Generation = 10, Population = 18.
+**--00
+..-1*1
+...*0-
+.1..1-
+*....*
+10.0**
+
+Generation = 11, Population = 14.
+..1---
+..1-.-
+..*.1-
+.-.**-
+*.**.*
+-1.1**
+
+Generation = 12, Population = 10.
+..*1--
+.*-1.-
+..*.*1
+.-...-
+.*...*
+--.-.*
+
+Generation = 13, Population = 12.
+..*-0-
+.*-*.1
+..****
+.1..*-
+......
+-1.-..
+
+Generation = 14, Population = 9.
+..*1--
+.*-..*
+.*...*
+.-*.*-
+......
+1-.-..
+
+Generation = 15, Population = 11.
+..**00
+.*-.*.
+.**.**
+.-...-
+......
+-1.-..
+
+Generation = 16, Population = 14.
+..**11
+.*1...
+.*****
+.1...1
+......
+1-.-..
+
+Generation = 17, Population = 13.
+.***-*
+..*...
+*..***
+.*.*.*
+......
+-1.-..
+
+Generation = 18, Population = 12.
+.***-.
+.....*
+.*.*.*
+..**.*
+..*...
+1-.-..
+
+Generation = 19, Population = 12.
+..*.1.
+.*.*..
+...*.*
+.*.*..
+.***..
+-1.-..
+
+Generation = 20, Population = 12.
+..**-.
+...*..
+...*..
+.*.*..
+**.*..
+1*.1..
+
+Generation = 21, Population = 15.
+..**1.
+...**.
+...**.
+**.**.
+...**.
+-*.*..
+
+Generation = 22, Population = 10.
+..*.-.
+.....*
+.....*
+.....*
+**....
+1.***.
+
+Generation = 23, Population = 10.
+....-.
+......
+....**
+......
+*****.
+*.**..
+
+Generation = 24, Population = 7.
+....-.
+......
+......
+.**..*
+*...*.
+*...*.
+
+Generation = 25, Population = 5.
+....-.
+......
+......
+.*....
+*..***
+......
+
+Generation = 26, Population = 3.
+....-.
+......
+......
+....*.
+....*.
+....*.
+
+Generation = 27, Population = 3.
+....-.
+......
+......
+......
+...***
+......
+
+Generation = 28, Population = 3.
+....-.
+......
+......
+....*.
+....*.
+....*.
+
+Generation = 29, Population = 3.
+....-.
+......
+......
+......
+...***
+......
+
+Generation = 30, Population = 3.
+....-.
+......
+......
+....*.
+....*.
+....*.
+
+Generation = 31, Population = 3.
+....-.
+......
+......
+......
+...***
+......
+
+Generation = 32, Population = 3.
+....-.
+......
+......
+....*.
+....*.
+....*.
+
+*** Life<Cell> 10x5 ***
+
+Generation = 0, Population = 41.
+00-0-
+00000
+-0000
+0000-
+0000-
+000-0
+-00-0
+000-0
+00000
+00000
+
+Generation = 7, Population = 20.
+-.1.-
+.-.--
+1.--0
+0-0..
+*0-00
+1.--.
+.-.-1
+-1*-*
+*-*.*
+1*1-.
+
+Generation = 14, Population = 20.
+.*..*
+*0.*-
+*.0.0
+-.**.
+*..**
+.*.-*
+...1*
+...**
+.-...
+...1.
+
+Generation = 21, Population = 21.
+.*.**
+*-...
+**.**
+..*..
+**...
+**...
+.**..
+.***.
+*....
+.**..
+
+Generation = 28, Population = 13.
+.....
+.-...
+.*.*.
+*....
+....*
+*...*
+.....
+***..
+...*.
+*.**.
+
+Generation = 35, Population = 13.
+.....
+.-...
+.....
+.....
+.....
+.....
+***..
+*****
+.*..*
+..***
+
+Generation = 42, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 49, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 56, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 63, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 70, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 77, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 84, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 91, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 98, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 105, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 112, Population = 0.
+.....
+.-...
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+*** Life<Cell> 5x7 ***
+
+Generation = 0, Population = 10.
+0------
+----0--
+-0-0---
+-00----
+0--000-
+
+Generation = 2, Population = 12.
+-100---
+-1----0
+-*--0--
+0--1---
+---*0-1
+
+Generation = 4, Population = 16.
+110--0-
+1---1-0
+-*-00--
+0-*.-01
+---.-11
+
+Generation = 6, Population = 14.
+1--*-0-
+**1-*10
+-.---0-
+0-..---
+-01.-1-
+
+Generation = 8, Population = 16.
+*--*-*-
+*..-.1-
+0.1-0--
+-0**001
+0*..---
+
+Generation = 10, Population = 15.
+.**.-*1
+*..1..*
+-.****1
+--..--.
+-*.**--
+
+Generation = 12, Population = 15.
+..**1.1
+.......
+-***.*1
+0-**--*
+-....*1
+
+Generation = 14, Population = 11.
+......1
+.......
+1*.*..-
+-1.**1*
+-....*1
+
+Generation = 16, Population = 7.
+......-
+.......
+**...*-
+-*...**
+-.....1
+
+Generation = 18, Population = 7.
+......-
+.......
+**...*-
+-*..*..
+-....**
+
+Generation = 20, Population = 7.
+......-
+.......
+**...**
+-*....*
+-....*.
+
+Generation = 22, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 24, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 26, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 28, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 30, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 32, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 34, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 36, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 38, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 40, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 42, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 44, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 46, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 48, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 50, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 52, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 54, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 56, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 58, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 60, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 62, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 64, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 66, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 68, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 70, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 72, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 74, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 76, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 78, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 80, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 82, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 84, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 86, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 88, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 90, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 92, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 94, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 96, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 98, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 100, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 102, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 104, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 106, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 108, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 110, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 112, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 114, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 116, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 118, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 120, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 122, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 124, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 126, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 128, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 130, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 132, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 134, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 136, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 138, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 140, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 142, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 144, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 146, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 148, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 150, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 152, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 154, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 156, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 158, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 160, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 162, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 164, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 166, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 168, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 170, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 172, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 174, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 176, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 178, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 180, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 182, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 184, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 186, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 188, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 190, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+Generation = 192, Population = 7.
+......-
+.......
+**...**
+-*...**
+-......
+
+*** Life<Cell> 2x8 ***
+
+Generation = 0, Population = 13.
+00000000
+0-0-0-00
+
+Generation = 15, Population = 5.
+--*.*..-
+.**.*..-
+
+Generation = 30, Population = 3.
+--*....-
+.**....-
+
+Generation = 45, Population = 3.
+--*....-
+.**....-
+
+*** Life<Cell> 2x1 ***
+
+Generation = 0, Population = 2.
+0
+0
+
+Generation = 15, Population = 0.
+.
+.
+
+*** Life<Cell> 6x6 ***
+
+Generation = 0, Population = 32.
+000000
+000000
+000-00
+000000
+000-00
+0-0-00
+
+Generation = 7, Population = 17.
+1****-
+.*..**
+*..1..
+.-*-11
+*..-..
+1.-.**
+
+Generation = 14, Population = 4.
+.....-
+......
+..**..
+.1.-*.
+......
+......
+
+Generation = 21, Population = 3.
+.....-
+......
+...*..
+..**..
+......
+......
+
+Generation = 28, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 35, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 42, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 49, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 56, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 63, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 70, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 77, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+Generation = 84, Population = 4.
+.....-
+......
+..**..
+..**..
+......
+......
+
+*** Life<Cell> 6x2 ***
+
+Generation = 0, Population = 12.
+00
+00
+00
+00
+00
+00
+
+Generation = 6, Population = 8.
+..
+11
+**
+**
+11
+..
+
+Generation = 12, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 18, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 24, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 30, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 36, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 42, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 48, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 54, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 60, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 66, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 72, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 78, Population = 0.
+..
+--
+..
+..
+--
+..
+
+Generation = 84, Population = 0.
+..
+--
+..
+..
+--
+..
+
+*** Life<Cell> 7x9 ***
+
+Generation = 0, Population = 31.
+0000--0-0
+00----00-
+00---0000
+00--0--0-
+0-----0--
+0--0---00
+-00-0-00-
+
+Generation = 8, Population = 24.
+..0---.1-
+**0..*1.1
+**.1-*...
+.*.*-*-1*
+-0---.1.-
+-1---1..*
+1*..--..-
+
+Generation = 16, Population = 26.
+...111*.1
+..-.***..
+.........
+.***1*1..
+**-.***.-
+1*.**.*..
+..**-...-
+
+Generation = 24, Population = 5.
+...*.....
+..-...*..
+....*..*.
+....*.-..
+..-.....-
+-........
+....-...-
+
+Generation = 32, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 40, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 48, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 56, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 64, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 72, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 80, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 88, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 96, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 104, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 112, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 120, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 128, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+Generation = 136, Population = 0.
+.........
+..-......
+.........
+......-..
+..-.....-
+-........
+....-...-
+
+*** Life<Cell> 1x1 ***
+
+Generation = 0, Population = 1.
+0
+
+Generation = 18, Population = 0.
+-
+
+Generation = 36, Population = 0.
+-
+
+Generation = 54, Population = 0.
+-
+
+Generation = 72, Population = 0.
+-
+
+Generation = 90, Population = 0.
+-
+
+Generation = 108, Population = 0.
+-
+
+Generation = 126, Population = 0.
+-
+
+Generation = 144, Population = 0.
+-
+
+Generation = 162, Population = 0.
+-
+
+*** Life<Cell> 5x7 ***
+
+Generation = 0, Population = 31.
+0000000
+-000-00
+000000-
+000-000
+0000000
+
+Generation = 2, Population = 17.
+-*---*0
+--0-0--
+-0--**1
+-0*0-00
+-*---*0
+
+Generation = 4, Population = 15.
+-.---**
+0*-1*--
+--1-..1
+**.-***
+-*--*.-
+
+Generation = 6, Population = 16.
+*.-*0..
+-.-**-0
+0-1-...
+*..**.*
+-.*1*.1
+
+Generation = 8, Population = 14.
+..**0..
+-*-.*--
+--1-*..
+.**.**.
+-..***.
+
+Generation = 10, Population = 14.
+..**-..
+*.1.**0
+-*.-**.
+....*..
+-***...
+
+Generation = 12, Population = 18.
+.***-..
+....***
+1*.-*.*
+**..**.
+-****..
+
+Generation = 14, Population = 13.
+...*0*.
+.*..*.*
+-..-.*.
+.*...*.
+0.***..
+
+Generation = 16, Population = 11.
+...*-*.
+...*..*
+-..1..*
+.*....*
+0*..*..
+
+Generation = 18, Population = 11.
+....-..
+..**.**
+1......
+*..****
+-.*....
+
+Generation = 20, Population = 10.
+....-..
+.*.....
+*****..
+.....*.
+-.**.*.
+
+Generation = 22, Population = 9.
+....-..
+*..**..
+*..**..
+.**..*.
+-......
+
+Generation = 24, Population = 13.
+...**..
+...***.
+.*...*.
+.****..
+-.**...
+
+Generation = 26, Population = 15.
+..**...
+..**.**
+.*.*.*.
+***.**.
+1......
+
+Generation = 28, Population = 19.
+..****.
+.*****.
+*.**..*
+*..**..
+.*.**..
+
+Generation = 30, Population = 5.
+.......
+.......
+.......
+.*.**..
+...**..
+
+Generation = 32, Population = 5.
+.......
+.......
+...*...
+..*.*..
+..*.*..
+
+Generation = 34, Population = 2.
+.......
+.......
+...*...
+...*...
+.......
+
+Generation = 36, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 38, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 40, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 42, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 44, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 46, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 48, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 50, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 52, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 54, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 56, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 58, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 60, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 62, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 64, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 66, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 68, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 70, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 72, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 74, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 76, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 78, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 80, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 82, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 84, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 86, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 88, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 90, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 92, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 94, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 96, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 98, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 100, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 102, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 104, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 106, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+Generation = 108, Population = 0.
+.......
+.......
+.......
+.......
+.......
+
+*** Life<Cell> 9x9 ***
+
+Generation = 0, Population = 45.
+---00-0-0
+-0-0--0-0
+-00000-00
+---000-00
+---0--0-0
+0-0000-0-
+--00-000-
+0000-0-00
+---0-0-00
+
+Generation = 6, Population = 42.
+-11-*-.--
+0*010-*10
+-1*-*--1*
+-1-..1.0*
+--11*.0-*
+*-.---*.*
+.1.*0.*..
+*..*10-1-
+-*1*-*-0-
+
+Generation = 12, Population = 29.
+1*...1.-.
+1*0---*.-
+1..*.-1..
+*.....*-.
+*1.1*.--.
+.0.-11...
+.1..***..
+......***
+-.-.**-*.
+
+Generation = 18, Population = 25.
+...***.**
+...**0..0
+-.......*
+.....**.*
+.-*......
+.**-**.**
+..*.....*
+........*
+-.-..*-.*
+
+Generation = 24, Population = 17.
+...*****.
+.....-..-
+-.....*.*
+......**.
+......**.
+...*.*...
+..**.**..
+.........
+-........
+
+Generation = 30, Population = 16.
+......*..
+.....-..-
+-...*..**
+.........
+...*.*.**
+.....*..*
+....**.*.
+.....***.
+-........
+
+Generation = 36, Population = 17.
+.........
+.....-...
+-........
+....*....
+...**....
+..**.....
+..**...**
+..**....*
+-..*****.
+
+Generation = 42, Population = 12.
+.........
+.....-...
+-........
+...**....
+..*..*...
+...**....
+.....*.**
+......*.*
+-......*.
+
+Generation = 48, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 54, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 60, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 66, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 72, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 78, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 84, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 90, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+Generation = 96, Population = 5.
+.........
+.....-...
+-........
+...*.....
+..*.*....
+..**.....
+.........
+.........
+-........
+
+*** Life<Cell> 10x5 ***
+
+Generation = 0, Population = 33.
+00000
+0-000
+--00-
+--0--
+0---0
+-00-0
+00000
+0-000
+-0000
+-0-00
+
+Generation = 8, Population = 29.
+--1..
+..*--
+.0**1
+0**01
+*.*0*
+****-
+0*1.-
+1**-*
+.---*
+..**-
+
+Generation = 16, Population = 23.
+-****
+*.*.*
+*-..1
+-**0.
+.*.0.
+*.*.1
+-...-
+*..*.
+.-**.
+...*1
+
+Generation = 24, Population = 15.
+-**..
+*.*..
+*1...
+*.*-.
+..*..
+*.*.-
+-....
+.*...
+...*.
+..**.
+
+Generation = 32, Population = 8.
+-***.
+*..*.
+*.*..
+*..-.
+.....
+....-
+.....
+.....
+.....
+.....
+
+*** Life<Cell> 7x3 ***
+
+Generation = 0, Population = 6.
+--0
+---
+--0
+--0
+---
+0-0
+--0
+
+Generation = 16, Population = 4.
+.-.
+...
+.*.
+-0*
+.*-
+...
+.-.
+
+Generation = 32, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 48, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 64, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 80, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 96, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 112, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 128, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 144, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+Generation = 160, Population = 0.
+...
+...
+...
+...
+...
+...
+...
+
+*** Life<Cell> 8x2 ***
+
+Generation = 0, Population = 14.
+00
+00
+00
+00
+-0
+-0
+00
+00
+
+Generation = 3, Population = 9.
+11
+1-
+1.
+0*
+0-
+-1
+-1
+--
+
+Generation = 6, Population = 7.
+-.
+1-
+-*
+-*
+-*
+1.
+-*
+-*
+
+Generation = 9, Population = 9.
+1.
+*-
+1.
+**
+1.
+**
+-*
+-.
+
+Generation = 12, Population = 9.
+**
+**
+1.
+..
+1.
+**
+-*
+-.
+
+Generation = 15, Population = 3.
+..
+..
+..
+..
+..
+**
+1.
+-.
+
+Generation = 18, Population = 1.
+..
+..
+..
+..
+..
+..
+..
+*.
+
+Generation = 21, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 24, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 27, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 30, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 33, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 36, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 39, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 42, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 45, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 48, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 51, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 54, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 57, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 60, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 63, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 66, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 69, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 72, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 75, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 78, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 81, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 84, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 87, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 90, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 93, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 96, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 99, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 102, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 105, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 108, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 111, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 114, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 117, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 120, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 123, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 126, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 129, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 132, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 135, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 138, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 141, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 144, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 147, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 150, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 153, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 156, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 159, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 162, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 165, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 168, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 171, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 174, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 177, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 180, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 183, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 186, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+*** Life<Cell> 5x5 ***
+
+Generation = 0, Population = 21.
+-0-00
+0-000
+00-00
+00000
+00000
+
+Generation = 14, Population = 6.
+....-
+***..
+*-1..
+..*-.
+....-
+
+Generation = 28, Population = 7.
+.**..
+*..*.
+**...
+.*...
+....-
+
+Generation = 42, Population = 0.
+.....
+.....
+.....
+.....
+....-
+
+Generation = 56, Population = 0.
+.....
+.....
+.....
+.....
+....-
+
+Generation = 70, Population = 0.
+.....
+.....
+.....
+.....
+....-
+
+Generation = 84, Population = 0.
+.....
+.....
+.....
+.....
+....-
+
+Generation = 98, Population = 0.
+.....
+.....
+.....
+.....
+....-
+
+*** Life<Cell> 1x1 ***
+
+Generation = 0, Population = 1.
+0
+
+Generation = 10, Population = 0.
+-
+
+Generation = 20, Population = 0.
+-
+
+Generation = 30, Population = 0.
+-
+
+Generation = 40, Population = 0.
+-
+
+Generation = 50, Population = 0.
+-
+
+Generation = 60, Population = 0.
+-
+
+Generation = 70, Population = 0.
+-
+
+Generation = 80, Population = 0.
+-
+
+Generation = 90, Population = 0.
+-
+
+Generation = 100, Population = 0.
+-
+
+Generation = 110, Population = 0.
+-
+
+Generation = 120, Population = 0.
+-
+
+Generation = 130, Population = 0.
+-
+
+Generation = 140, Population = 0.
+-
+
+Generation = 150, Population = 0.
+-
+
+Generation = 160, Population = 0.
+-
+
+*** Life<Cell> 9x9 ***
+
+Generation = 0, Population = 3.
+-0-------
+---------
+---------
+---------
+---------
+---------
+---0-----
+--------0
+---------
+
+Generation = 11, Population = 23.
+0-0---0--
+-0---0---
+----0----
+---0-0-0-
+0-----0-0
+-----0---
+0---0---0
+-0---0-0-
+--0-0-0-0
+
+Generation = 22, Population = 15.
+-0-----0-
+--------0
+-----0---
+------0-0
+---0-0-0-
+0-0-----0
+---------
+--0-0----
+-------0-
+
+Generation = 33, Population = 17.
+--0---0--
+---0-0---
+--------0
+---0---0-
+--0-0---0
+-0-----0-
+--0-0-0-0
+-------0-
+---------
+
+*** Life<Cell> 10x2 ***
+
+Generation = 0, Population = 19.
+00
+00
+00
+00
+00
+00
+0-
+00
+00
+00
+
+Generation = 20, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 40, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 60, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 80, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 100, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 120, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+Generation = 140, Population = 1.
+..
+..
+..
+..
+..
+..
+.-
+.0
+..
+.-
+
+*** Life<Cell> 1x8 ***
+
+Generation = 0, Population = 8.
+00000000
+
+Generation = 13, Population = 0.
+.-....-.
+
+Generation = 26, Population = 0.
+.-....-.
+
+Generation = 39, Population = 0.
+.-....-.
+
+*** Life<Cell> 9x5 ***
+
+Generation = 0, Population = 25.
+--0-0
+0000-
+-0-00
+0-00-
+0000-
+--00-
+-0-00
+0--0-
+0--0-
+
+Generation = 16, Population = 20.
+.**--
+.**1.
+..**.
+.**1.
+01...
+.*0.-
+*....
+*.**.
+.**..
+
+Generation = 32, Population = 15.
+...--
+..*-.
+**.*.
+**...
+..*..
+****.
+.***.
+...*.
+.....
+
+Generation = 48, Population = 0.
+...--
+...-.
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+Generation = 64, Population = 0.
+...--
+...-.
+.....
+.....
+.....
+.....
+.....
+.....
+.....
+
+*** Life<Cell> 8x9 ***
+
+Generation = 0, Population = 36.
+0-0-000--
+000-0----
+00-000-0-
+-0-------
+0--000-00
+00-0--00-
+-0-0-00-0
+-0-0---00
+
+Generation = 7, Population = 38.
+--.--0.*.
+1.11-*-.0
+*..***--1
+-..*-00.-
+1*-****-*
+-1*--111-
+.***-.*1.
+**-.-*0*0
+
+Generation = 14, Population = 21.
+.**....*.
+.*.--..**
+..**..1-*
+-...1-..-
+.......-.
+-.*.1-.*-
+..*..**..
+..****...
+
+Generation = 21, Population = 22.
+..*......
+.*.*.....
+.*..***..
+-.**-...*
+........*
+1...*-.*-
+*.....*..
+.******..
+
+Generation = 28, Population = 20.
+.*****...
+*.....*..
+.**...*..
+1...**...
+.....*...
+.*..*...-
+..***....
+..*......
+
+Generation = 35, Population = 23.
+.**.***..
+....*.**.
+..*.*....
+-.***....
+..***....
+...*....0
+**..*....
+..*.*....
+
+Generation = 42, Population = 7.
+.**......
+.........
+*........
+1.*......
+*........
+*.......-
+.........
+.........
+
+Generation = 49, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 56, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 63, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 70, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 77, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 84, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 91, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 98, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+Generation = 105, Population = 0.
+.........
+.........
+.........
+-........
+.........
+........-
+.........
+.........
+
+*** Life<Cell> 8x2 ***
+
+Generation = 0, Population = 16.
+00
+00
+00
+00
+00
+00
+00
+00
+
+Generation = 12, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 24, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 36, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 48, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 60, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 72, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 84, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 96, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 108, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 120, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 132, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 144, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+*** Life<Cell> 5x7 ***
+
+Generation = 0, Population = 28.
+0-000-0
+000000-
+0000000
+--00-00
+-000000
+
+Generation = 13, Population = 11.
+.**.1.-
+.*-*.**
+-.**-.-
+.-.*0..
+....-..
+
+Generation = 26, Population = 0.
+.......
+.......
+-...-..
+.-.....
+.......
+
+Generation = 39, Population = 0.
+.......
+.......
+-...-..
+.-.....
+.......
+
+Generation = 52, Population = 0.
+.......
+.......
+-...-..
+.-.....
+.......
+
+*** Life<Cell> 6x5 ***
+
+Generation = 0, Population = 23.
+0-000
+0000-
+00--0
+0--00
+0000-
+00000
+
+Generation = 17, Population = 10.
+.1**.
+....0
+*..*1
+*....
+....-
+**...
+
+Generation = 34, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+Generation = 51, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+Generation = 68, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+Generation = 85, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+Generation = 102, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+Generation = 119, Population = 4.
+.**..
+.**.-
+....-
+.....
+....-
+.....
+
+*** Life<Cell> 9x4 ***
+
+Generation = 0, Population = 33.
+0000
+0000
+0000
+000-
+0000
+0000
+0000
+0--0
+0000
+
+Generation = 6, Population = 14.
+0..-
+**0-
+--00
+*-..
+*1--
+-1-*
+-..-
+--1*
+---*
+
+Generation = 12, Population = 18.
+...-
+..11
+*1-.
+***.
+*-1*
+1.0*
+**.*
+1*..
+-.-.
+
+Generation = 18, Population = 15.
+..*1
+.*.*
+*...
+*..*
+*...
+*.-.
+***.
+*.*.
+-*-.
+
+Generation = 24, Population = 2.
+...-
+....
+....
+....
+....
+....
+....
+..**
+-.-.
+
+Generation = 30, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 36, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 42, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 48, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 54, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 60, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 66, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 72, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+Generation = 78, Population = 0.
+...-
+....
+....
+....
+....
+....
+....
+....
+-.-.
+
+*** Life<Cell> 3x6 ***
+
+Generation = 0, Population = 17.
+000000
+000000
+00-000
+
+*** Life<Cell> 2x6 ***
+
+Generation = 0, Population = 9.
+000000
+--0-00
+
+Generation = 9, Population = 3.
+.-.*.-
+...*.*
+
+Generation = 18, Population = 4.
+.-..**
+....**
+
+*** Life<Cell> 2x7 ***
+
+Generation = 0, Population = 14.
+0000000
+0000000
+
+Generation = 11, Population = 0.
+.......
+.......
+
+Generation = 22, Population = 0.
+.......
+.......
+
+Generation = 33, Population = 0.
+.......
+.......
+
+Generation = 44, Population = 0.
+.......
+.......
+
+Generation = 55, Population = 0.
+.......
+.......
+
+Generation = 66, Population = 0.
+.......
+.......
+
+Generation = 77, Population = 0.
+.......
+.......
+
+Generation = 88, Population = 0.
+.......
+.......
+
+Generation = 99, Population = 0.
+.......
+.......
+
+*** Life<Cell> 5x8 ***
+
+Generation = 0, Population = 20.
+--0--000
+-00--000
+0--0---0
+-000---0
+00---00-
+
+Generation = 8, Population = 17.
+.-.-11*-
+1****--.
+**--10-*
+...*..--
+*-.*.*.-
+
+Generation = 16, Population = 15.
+.**-.*.-
+*....*..
+.*0..*-.
+..**..1.
+...****.
+
+Generation = 24, Population = 9.
+.......*
+.....*.*
+..-..***
+....*..*
+.....*..
+
+Generation = 32, Population = 13.
+.....**.
+....**.*
+..-.**.*
+....**.*
+.....**.
+
+Generation = 40, Population = 17.
+....***.
+..**...*
+***..*.*
+..**...*
+....***.
+
+Generation = 48, Population = 15.
+.**..**.
+*......*
+.....***
+*......*
+.**..**.
+
+Generation = 56, Population = 0.
+........
+........
+........
+........
+........
+
+Generation = 64, Population = 0.
+........
+........
+........
+........
+........
+
+Generation = 72, Population = 0.
+........
+........
+........
+........
+........
+
+Generation = 80, Population = 0.
+........
+........
+........
+........
+........
+
+Generation = 88, Population = 0.
+........
+........
+........
+........
+........
+
+*** Life<Cell> 4x9 ***
+
+Generation = 0, Population = 27.
+00--0000-
+-0000000-
+0-00--00-
+000000000
+
+Generation = 5, Population = 18.
+.11-0*.0.
+00-*..*--
+.-***...1
+-.1-*0**.
+
+Generation = 10, Population = 15.
+..*--.**.
+.0-***.-0
+.-.*.*.*1
+-.**.*...
+
+Generation = 15, Population = 9.
+..**.***.
+.--*....*
+.-.....**
+-........
+
+Generation = 20, Population = 15.
+.***.....
+.1*...*.*
+.0****..*
+-...*...*
+
+Generation = 25, Population = 5.
+.........
+.........
+....*....
+1***.....
+
+Generation = 30, Population = 3.
+.........
+.........
+.***.....
+.........
+
+Generation = 35, Population = 3.
+.........
+..*......
+..*......
+..*......
+
+Generation = 40, Population = 3.
+.........
+.........
+.***.....
+.........
+
+*** Life<Cell> 2x10 ***
+
+Generation = 0, Population = 1.
+------0---
+----------
+
+Generation = 5, Population = 6.
+-0-0-0-0--
+--0---0---
+
+Generation = 10, Population = 1.
+--0-------
+----------
+
+Generation = 15, Population = 6.
+---0-0-0--
+0-0---0---
+
+Generation = 20, Population = 2.
+0-----0---
+----------
+
+Generation = 25, Population = 6.
+-0-0---0--
+0---0-0---
+
+Generation = 30, Population = 1.
+----0-----
+----------
+
+Generation = 35, Population = 8.
+-0-0-0-0-0
+0---0---0-
+
+Generation = 40, Population = 2.
+0-------0-
+----------
+
+Generation = 45, Population = 3.
+---0------
+0-0-------
+
+Generation = 50, Population = 2.
+--0-----0-
+----------
+
+Generation = 55, Population = 5.
+-------0--
+0-0-0-0---
+
+Generation = 60, Population = 4.
+0---0-0-0-
+----------
+
+Generation = 65, Population = 5.
+---0-----0
+----0-0-0-
+
+Generation = 70, Population = 1.
+0---------
+----------
+
+Generation = 75, Population = 4.
+-----0----
+0-0-0-----
+
+Generation = 80, Population = 2.
+--0-0-----
+----------
+
+Generation = 85, Population = 6.
+-0-------0
+--0-0-0-0-
+
+*** Life<Cell> 4x3 ***
+
+Generation = 0, Population = 12.
+000
+000
+000
+000
+
+Generation = 2, Population = 6.
+---
+*0*
+*0*
+---
+
+Generation = 4, Population = 2.
+-*-
+.-.
+.-.
+-*-
+
+Generation = 6, Population = 8.
+-*-
+***
+***
+-*-
+
+Generation = 8, Population = 4.
+0.0
+...
+...
+0.0
+
+Generation = 10, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 12, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 14, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 16, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 18, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 20, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 22, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 24, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 26, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 28, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 30, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 32, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 34, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 36, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 38, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 40, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 42, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 44, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 46, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 48, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 50, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 52, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 54, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 56, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 58, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 60, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 62, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 64, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 66, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 68, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 70, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 72, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 74, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 76, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 78, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 80, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 82, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 84, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 86, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 88, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 90, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 92, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 94, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 96, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 98, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 100, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 102, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 104, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 106, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 108, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 110, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 112, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 114, Population = 0.
+-.-
+...
+...
+-.-
+
+Generation = 116, Population = 0.
+-.-
+...
+...
+-.-
+
+*** Life<Cell> 9x9 ***
+
+Generation = 0, Population = 9.
+---------
+---0-0---
+---------
+--------0
+---0-----
+---0-----
+--0------
+-0--0---0
+---------
+
+Generation = 12, Population = 35.
+-1**-.110
+1--.1-.*.
+-..*..*-0
+.----1..-
+*.*.***.*
+*.-.*.-.-
+**-*---**
+.*.-..-0*
+0.***.10.
+
+Generation = 24, Population = 27.
+-....**..
+.1-.**.*.
+*......*1
+**.-.....
+**.......
+.**...*.*
+.....*..*
+.*.**.**.
+..*.**...
+
+Generation = 36, Population = 7.
+-........
+.-1......
+..***....
+..**.*...
+.........
+.........
+.........
+.........
+.........
+
+Generation = 48, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 60, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 72, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 84, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 96, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 108, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 120, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+Generation = 132, Population = 0.
+-........
+.-.......
+.........
+.........
+.........
+.........
+.........
+.........
+.........
+
+*** Life<Cell> 7x8 ***
+
+Generation = 0, Population = 37.
+0-000000
+--0-000-
+0-0-000-
+00000000
+00--0--0
+0000-0-0
+0---0-0-
+
+Generation = 18, Population = 12.
+-.......
+.**.....
+-.*1....
+*.*...--
+*.*.....
+*..*....
+.*.*....
+
+Generation = 36, Population = 0.
+-.......
+........
+-.......
+......--
+........
+........
+........
+
+*** Life<Cell> 8x2 ***
+
+Generation = 0, Population = 16.
+00
+00
+00
+00
+00
+00
+00
+00
+
+Generation = 6, Population = 4.
+..
+**
+..
+..
+..
+..
+**
+..
+
+Generation = 12, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 18, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 24, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 30, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 36, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 42, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 48, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
+
+Generation = 54, Population = 0.
+..
+..
+..
+..
+..
+..
+..
+..
