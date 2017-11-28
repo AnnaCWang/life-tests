@@ -65,6 +65,7 @@ Generation = 4, Population = 153.
 ---00-*0----.---
 ---.*.0---1-1--1
 -*01**.-1*--*-01
+
 *** Life<Cell> 17x12 ***
 
 Generation = 0, Population = 132.
@@ -142,6 +143,7 @@ Generation = 3, Population = 107.
 ---1-.-1--**
 -.-*1.-11.10
 ----10*0*0-0
+
 *** Life<Cell> 16x24 ***
 
 Generation = 0, Population = 53.
@@ -431,6 +433,7 @@ Generation = 15, Population = 142.
 .-0*0.*.**..*.**....*-*.
 .*...***1.1...*.0....*.*
 .1...-.....**1***.....**
+
 *** Life<Cell> 20x28 ***
 
 Generation = 0, Population = 51.
@@ -630,6 +633,7 @@ Generation = 8, Population = 213.
 --1*1------.---0-.**.*..-0--
 1---01----*-.-0-1-.01--0.-1-
 -1-------.0---0**1.-*-------
+
 *** Life<Cell> 28x4 ***
 
 Generation = 0, Population = 53.
@@ -1081,6 +1085,7 @@ Generation = 14, Population = 36.
 **.*
 *..*
 ***-
+
 *** Life<Cell> 5x11 ***
 
 Generation = 0, Population = 12.
@@ -1194,6 +1199,7 @@ Generation = 15, Population = 17.
 .*.-*.*.*1*
 ....**-*1*.
 .-...**.-.-
+
 *** Life<Cell> 5x12 ***
 
 Generation = 0, Population = 13.
@@ -1216,6 +1222,7 @@ Generation = 2, Population = 24.
 0--01--0*1-0
 ---0-0--1---
 --011-1--10-
+
 *** Life<Cell> 2x7 ***
 
 Generation = 0, Population = 2.
@@ -1229,6 +1236,7 @@ Generation = 5, Population = 4.
 Generation = 10, Population = 6.
 *-.-.**
 **.-.-*
+
 *** Life<Cell> 25x16 ***
 
 Generation = 0, Population = 128.
@@ -1311,6 +1319,7 @@ Generation = 4, Population = 177.
 1----0*1110-.0--
 .1----01.-1...0-
 10.-*---*--1--00
+
 *** Life<Cell> 21x16 ***
 
 Generation = 0, Population = 54.
@@ -1450,6 +1459,7 @@ Generation = 5, Population = 173.
 1-0-*0.11-10*-1-
 *0---.*-1--1000-
 0---1--00-1---0-
+
 *** Life<Cell> 1x29 ***
 
 Generation = 0, Population = 17.
@@ -1478,6 +1488,7 @@ Generation = 7, Population = 2.
 
 Generation = 8, Population = 3.
 ....0-1.-.-.---.---.---....-1
+
 *** Life<Cell> 7x15 ***
 
 Generation = 0, Population = 49.
@@ -1497,6 +1508,7 @@ Generation = 9, Population = 44.
 1*0.1..**...-1*
 -01--...-....-*
 --1*01.0*1--.*-
+
 *** Life<Cell> 15x22 ***
 
 Generation = 0, Population = 39.
@@ -1566,6 +1578,7 @@ Generation = 18, Population = 113.
 1..........*.*.**...*.
 ...1.*-*...-*...*1.-..
 ...*-*.-......-..*-.*.
+
 *** Life<Cell> 19x10 ***
 
 Generation = 0, Population = 20.
@@ -1609,6 +1622,7 @@ Generation = 2, Population = 62.
 -01---0000
 0-------0-
 ----10-0-0
+
 *** Life<Cell> 8x8 ***
 
 Generation = 0, Population = 6.
@@ -1700,6 +1714,7 @@ Generation = 8, Population = 25.
 *0**--*-
 ----.0.1
 -**-.--*
+
 *** Life<Cell> 9x22 ***
 
 Generation = 0, Population = 94.
@@ -1723,6 +1738,7 @@ Generation = 3, Population = 99.
 -11--*00*1.1-1*-----1-
 ---*-01-1.-----.*110--
 1-01011-*1*---110*0-00
+
 *** Life<Cell> 3x4 ***
 
 Generation = 0, Population = 1.
@@ -1749,6 +1765,7 @@ Generation = 20, Population = 2.
 ----
 0-0-
 ----
+
 *** Life<Cell> 15x8 ***
 
 Generation = 0, Population = 37.
@@ -1937,6 +1954,7 @@ Generation = 10, Population = 49.
 -.*1.-*.
 **01*.--
 -..-.0-.
+
 *** Life<Cell> 11x13 ***
 
 Generation = 0, Population = 32.
@@ -2016,6 +2034,7 @@ Generation = 5, Population = 65.
 -1.0-------.1
 --00.*0-1---0
 ----*100---.-
+
 *** Life<Cell> 5x27 ***
 
 Generation = 0, Population = 22.
@@ -2122,6 +2141,7 @@ Generation = 14, Population = 57.
 ..*-.*....**.1-...**0*.**..
 .**..1....**....*..*--.-.-1
 -.-*-**.**1.*******....*-*.
+
 *** Life<Cell> 29x4 ***
 
 Generation = 0, Population = 65.
@@ -2185,6 +2205,7 @@ Generation = 20, Population = 32.
 ...-
 ....
 -...
+
 *** Life<Cell> 21x29 ***
 
 Generation = 0, Population = 174.
@@ -2324,6 +2345,7 @@ Generation = 10, Population = 248.
 *-*11..-.--.-.*..*-..-1-1....
 **1.*..1*.-..-...-*-**...--.1
 ...-*....---..-.0..1**..-..**
+
 *** Life<Cell> 15x10 ***
 
 Generation = 0, Population = 59.
@@ -2461,6 +2483,7 @@ Generation = 7, Population = 65.
 0...*.*...
 *-..*--.*-
 *-.*0***--
+
 *** Life<Cell> 2x11 ***
 
 Generation = 0, Population = 10.
@@ -2490,6 +2513,7 @@ Generation = 15, Population = 8.
 Generation = 18, Population = 8.
 -.0-.-*0**.
 .....**-*--
+
 *** Life<Cell> 25x3 ***
 
 Generation = 0, Population = 44.
@@ -2545,6 +2569,7 @@ Generation = 9, Population = 32.
 -.*
 *..
 0-.
+
 *** Life<Cell> 15x21 ***
 
 Generation = 0, Population = 81.
@@ -2614,6 +2639,7 @@ Generation = 3, Population = 147.
 --1---1-*1---100--0-0
 000-1*-00-100*-0-11--
 --0--00-00-*1---*----
+
 *** Life<Cell> 28x16 ***
 
 Generation = 0, Population = 47.
@@ -2675,6 +2701,7 @@ Generation = 17, Population = 178.
 ..*.*..**.-.....
 ..*.**10.*.*...*
 -.....-..***...1
+
 *** Life<Cell> 12x18 ***
 
 Generation = 0, Population = 125.
@@ -2830,6 +2857,7 @@ Generation = 10, Population = 91.
 .-*..***-.--.--*..
 .*...**.1*.***.-..
 -0.-.......100***.
+
 *** Life<Cell> 14x26 ***
 
 Generation = 0, Population = 31.
@@ -2975,6 +3003,7 @@ Generation = 8, Population = 152.
 --1111.-*..--.--1.-1-.*.*-
 1--*1-1--1*1-.---*---0--01
 ------*0**------*1--0*11.-
+
 *** Life<Cell> 6x8 ***
 
 Generation = 0, Population = 15.
@@ -3048,6 +3077,7 @@ Generation = 8, Population = 18.
 ....000-
 --.1-**.
 -.*-*.-.
+
 *** Life<Cell> 4x25 ***
 
 Generation = 0, Population = 5.
@@ -3133,6 +3163,7 @@ Generation = 13, Population = 45.
 -*-**..1-0-0.*.0.-*1*--0-
 --1****..---0*.-.-.--0.0.
 1.-0-*1-.110*1.-.11--0.00
+
 *** Life<Cell> 27x5 ***
 
 Generation = 0, Population = 32.
@@ -3192,6 +3223,7 @@ Generation = 14, Population = 48.
 ...-.
 *.-..
 ....-
+
 *** Life<Cell> 3x17 ***
 
 Generation = 0, Population = 18.
@@ -3293,6 +3325,7 @@ Generation = 19, Population = 22.
 ...1*.**********.
 ...*.....*.****..
 ....***.........0
+
 *** Life<Cell> 25x2 ***
 
 Generation = 0, Population = 14.
@@ -3348,6 +3381,7 @@ Generation = 14, Population = 12.
 ..
 .-
 .-
+
 *** Life<Cell> 8x21 ***
 
 Generation = 0, Population = 95.
@@ -3369,6 +3403,7 @@ Generation = 2, Population = 78.
 -001---0-0**---0-0---
 ---*-*-0---1---11*-*-
 1---*01--01-0-*11-0*0
+
 *** Life<Cell> 7x1 ***
 
 Generation = 0, Population = 4.
@@ -3397,6 +3432,7 @@ Generation = 8, Population = 0.
 -
 .
 .
+
 *** Life<Cell> 25x2 ***
 
 Generation = 0, Population = 15.
@@ -3452,6 +3488,7 @@ Generation = 4, Population = 23.
 10
 --
 -1
+
 *** Life<Cell> 10x24 ***
 
 Generation = 0, Population = 116.
@@ -3477,6 +3514,7 @@ Generation = 7, Population = 119.
 *01-.*.-.--*--*10..*1-.*
 *.--.0-*..--1.1.-1-1*.-*
 ---1**--**-1-.00--.*00*1
+
 *** Life<Cell> 4x2 ***
 
 Generation = 0, Population = 4.
@@ -3508,6 +3546,7 @@ Generation = 12, Population = 4.
 **
 -*
 ..
+
 *** Life<Cell> 19x29 ***
 
 Generation = 0, Population = 120.
@@ -3614,6 +3653,7 @@ Generation = 8, Population = 233.
 *11-...--.-0.-0-*...-**1--.10
 0-*111-....**..-1.**1.-*.-.-0
 --*11-.*.1*-0-**11.**0**11*--
+
 *** Life<Cell> 30x21 ***
 
 Generation = 0, Population = 23.
@@ -3679,6 +3719,7 @@ Generation = 19, Population = 266.
 .0.1--**1*-*1..*...-*
 ...1....*....**.1..*1
 .*.0-*-.*..***-*.....
+
 *** Life<Cell> 8x23 ***
 
 Generation = 0, Population = 44.
@@ -3720,6 +3761,7 @@ Generation = 3, Population = 77.
 1*--.--.-*---1001*0----
 --0---.11-0--0--010-0-0
 1-.1-1--*0--.------0-0-
+
 *** Life<Cell> 19x17 ***
 
 Generation = 0, Population = 128.
@@ -3763,6 +3805,7 @@ Generation = 3, Population = 146.
 0---0-**0000--0.0
 -0--01--011-0-1**
 --0*1-0-00--0-*-0
+
 *** Life<Cell> 10x18 ***
 
 Generation = 0, Population = 91.
@@ -3812,6 +3855,7 @@ Generation = 9, Population = 74.
 -.**-**0*-.*1-..*-
 **..1*--.1*.-.....
 *-.*-..0.*...--...
+
 *** Life<Cell> 6x21 ***
 
 Generation = 0, Population = 73.
@@ -3909,6 +3953,7 @@ Generation = 11, Population = 47.
 *-..*..--.**.-**0....
 -*..-..1****-....-...
 -.*.-.1...1.-.....-1.
+
 *** Life<Cell> 2x11 ***
 
 Generation = 0, Population = 3.
@@ -3942,6 +3987,7 @@ Generation = 6, Population = 6.
 Generation = 7, Population = 8.
 --00--.-*-.
 -0-00-1--*.
+
 *** Life<Cell> 24x25 ***
 
 Generation = 0, Population = 164.
@@ -4385,6 +4431,7 @@ Generation = 16, Population = 215.
 *.*.*....***.-.*..*...1.1
 10...-.........*.......*.
 .**....-..-..--.***0...*.
+
 *** Life<Cell> 7x8 ***
 
 Generation = 0, Population = 35.
@@ -4404,6 +4451,7 @@ Generation = 14, Population = 17.
 ...10.**
 ....-.1.
 ........
+
 *** Life<Cell> 30x29 ***
 
 Generation = 0, Population = 80.
@@ -4469,6 +4517,7 @@ Generation = 7, Population = 412.
 *-0-*-0-1-1**.*.*1.-.-0*--1--
 .0.0*-*00----.11...*.**0-----
 .--0*-0-0-1--.*-*-0--**-*-1-0
+
 *** Life<Cell> 21x22 ***
 
 Generation = 0, Population = 81.
